@@ -1,2 +1,2 @@
 # tuts-and-other
-some code from tutorials for personal reference
+Some code from totorials and documentations for personal reference
